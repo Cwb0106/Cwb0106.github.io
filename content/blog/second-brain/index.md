@@ -1,9 +1,9 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: A Physiological Control System for Pulsatile Ventricular Assist Device Using an Energy-Efficient Deep Reinforcement Learning Method
+summary: We proposed an energy-efficient left ventricular assist device (LVAD) controller based on deep reinforcement learning, which can adaptively regulate the LVAD output power for complex human systems.
+date: 2023-03-19
 authors:
-  - admin
+  - Te Li, Wenbo Cui
 tags:
   - Second Brain
   - Markdown
