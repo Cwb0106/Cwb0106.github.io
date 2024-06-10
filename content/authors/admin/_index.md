@@ -11,7 +11,7 @@ last_name: Cui
 superuser: true
 
 # Role/position/tagline
-role: phd candidate
+role: Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
